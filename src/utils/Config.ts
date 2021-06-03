@@ -1,7 +1,7 @@
 export const Config = {
-  site_name: 'Rousas',
-  title: 'Em favor da reconstrução cristã',
-  description: 'Site da reconstrução cristã',
+  site_name: 'Separovich',
+  title: 'A beleza ja salvou o mundo',
+  description: 'A beleza ja salvou o mundo',
   url: 'https://rousas.com',
   locale: 'pt',
   author: 'Alvaro Separovich',

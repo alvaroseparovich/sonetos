@@ -25,20 +25,14 @@ const Index = (props: IIndexProps) => (
   >
     <ContentBorder>
       <Content>
-        <h2>Sobre nós</h2>
+        <h2>Sobre mim</h2>
         <div>
           <p>
-          Eu sou Alvaro separovich, e por enquanto o único envolvido neste projeto.
-          O proposito do Rousas.com é armar os cristãos com a palavra de Deus, 
-          habilitando-os para obedecer a Deus em todas as areas da vida.
+          Eu sou Alvaro separovich.     
           </p>
           <p>
-          Ainda não temos uma organização formada, porém assim que oficializarmos 
-          uma ONG o recebimento de recursos para auxiliar este projeto ficará melhor 
-          e mais desempedida.   
+          Tento sempre ser sincero.    
           </p>
-
-
         </div>
       </Content>
     </ContentBorder>

@@ -23,15 +23,15 @@ const RightSidebar = (props: IMainProps) => (
         <div className="w-full md:w-2/3 md:px-3">{props.children}</div>
 
         <div className="w-full md:w-1/3 px-3">
-          <SidebarBlock title="Quem somos?">
+          <SidebarBlock title="Como usar o site">
             <>
               <div>
-                <p>Por enquanto apenas eu, <b>Alvaro Separovich</b></p>
-                <p>
-                Fiz este site para que o cristão possa viver de toda palavra que sai da boca de Deus.
-                </p>
+                <p>Seja sincero.</p>
+                <p>Leia tranquilo.</p>
+                <p>Preste atenção.</p>
+                <p>Leia tudo em voz alta.</p>
               </div>
-              <SidebarIconList />
+              {/* <SidebarIconList /> */}
             </>
           </SidebarBlock>
 
