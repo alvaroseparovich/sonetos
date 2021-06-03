@@ -6,7 +6,7 @@ date: '2021-06-02'
 modified_date: '2021-06-02'
 image: /assets/images/posts/random-img.jpg
 tags:
-  - Soneto
+  - Sonetos
   - Amizade
   - Dor
   - Felicidade
