@@ -7,7 +7,6 @@ modified_date: '2021-06-02'
 image: /assets/images/posts/random-img.jpg
 tags:
   - Soneto
-  - Cristão
   - Amizade
   - Dor
   - Felicidade
@@ -29,3 +28,7 @@ E entendi**men**to é ele quem **traz** a **men**te
 Sendo meu a**mi**go dEle **pois** per**tí**ssimo  
 mesmo a con**ver**sa não nos **ser** a**ju**da  
 Sei que no **pei**to mesma **coi**sa **sen**te  
+
+_______
+
+> Maio 2021

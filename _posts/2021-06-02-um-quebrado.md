@@ -7,7 +7,6 @@ modified_date: '2021-06-02'
 image: /assets/images/posts/random-img.jpg
 tags:
   - Sonetos
-  - Cristão
   - Dor
 ---
 Me esmagou o corpo in**tei**ro num só **dia**,  
@@ -27,3 +26,6 @@ Mostrando bem sin**ce**ro o cora**ção**
 Belo pode até **soar** falando as**sim**  
 Mas se for bela **mi**nha forte **dor**  
 É por bem refle**tir** quem pisou em **mim**  
+
+______
+> Maio 2021

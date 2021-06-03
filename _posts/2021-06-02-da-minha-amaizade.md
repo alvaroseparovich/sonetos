@@ -6,7 +6,6 @@ date: '2021-06-02'
 modified_date: '2021-06-02'
 image: /assets/images/posts/random-img.jpg
 tags:
-  - Cristão
   - Amizade
 ---
 Da minha amizade mais importante,  
@@ -28,3 +27,7 @@ Ainda sem rumo, diz saber a vida levar.
 Eu com tristeza tento a ela o rumo indicar.  
 Triste fico pois nós vimos do mesmo lugar,  
 Mas a Deus Agradeço, por dessa direção decidir me livrar.  
+
+______
+
+> Julho 2020 - *Para o Sarau IPP*
