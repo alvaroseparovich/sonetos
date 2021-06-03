@@ -6,7 +6,7 @@ orbs:
 jobs:
   install-node:
     docker:
-      - image: 'node:14-alpine'
+      - image: 'node:14'
     steps:
       #- checkout
       - node/install:
