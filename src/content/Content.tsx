@@ -11,7 +11,7 @@ const Content = (props: IContentProps) => (
     <style jsx>
       {`
         .content {
-          @apply tracking-wider leading-8 text-gray-800 text-xl;
+          @apply tracking-wider leading-8 text-gray-300 text-xl;
         }
 
         .content :global(a) {
@@ -75,7 +75,7 @@ const Content = (props: IContentProps) => (
         }
 
         .content :global(blockquote p) {
-          @apply pl-4 py-2 border-l-4 border-blue-600 bg-gray-200;
+          @apply pl-4 py-2 border-l-4 border-blue-600 bg-gray-800;
         }
 
         .content :global(img) {

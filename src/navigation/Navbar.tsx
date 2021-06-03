@@ -9,7 +9,7 @@ type INavbarProps = {
 };
 
 const Navbar = (props: INavbarProps) => (
-  <div className="w-full bg-gray-700">
+  <div className="w-full bg-black">
     <div className="navbar max-w-screen-xl flex flex-wrap justify-between items-center py-4 px-3 mx-auto">
       <div className="font-extrabold text-xl">
         <Link href="/">

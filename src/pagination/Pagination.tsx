@@ -12,17 +12,17 @@ export type IPaginationProps = {
 const Pagination = (props: IPaginationProps) => (
   <div className="pt-8 flex justify-center">
     {props.previous && (
-      <div className="mx-3">
+      <div className="mx-3 bg-white rounded-full p-2">
         <Link href={convertUrlToLinkHref(props.previous)} as={props.previous}>
-          <a>← Newer Posts</a>
+          <a>← Mais novos</a>
         </Link>
       </div>
     )}
 
     {props.next && (
-      <div className="mx-3">
+      <div className="mx-3 bg-white rounded-full p-2">
         <Link href={convertUrlToLinkHref(props.next)} as={props.next}>
-          <a>Older Posts →</a>
+          <a>Mais antigos →</a>
         </Link>
       </div>
     )}

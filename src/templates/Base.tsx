@@ -1,6 +1,6 @@
 import React, { ReactNode } from 'react';
 
-import Link from 'next/link';
+// import Link from 'next/link';
 
 import { Footer } from '../footer/Footer';
 import { FooterBlocks } from '../footer/FooterBlocks';

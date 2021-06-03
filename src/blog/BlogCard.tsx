@@ -13,7 +13,7 @@ type IBlogCardProps = {
 };
 
 const BlogCard = (props: IBlogCardProps) => (
-  <div className="max-w-sm rounded-lg overflow-hidden bg-white shadow-sm mx-auto transform hover:shadow-xl hover:-translate-y-1">
+  <div className="max-w-sm rounded-lg overflow-hidden  shadow-sm mx-auto transform hover:shadow-xl hover:-translate-y-1">
     <Link href="/posts/[slug]" as={`/posts/${props.slug}`}>
       <a className="flex flex-col h-full">
         {/* <img className="w-full" src={props.image} alt={`Preview ${props.title}`} /> */}
@@ -30,7 +30,7 @@ const BlogCard = (props: IBlogCardProps) => (
           {props.tags.map((tag) => (
             <div
               key={tag}
-              className="bg-blue-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"
+              className="  text-sm font-semibold text-gray-700 mr-2 mb-2"
             >
               {`#${tag}`}
             </div>
