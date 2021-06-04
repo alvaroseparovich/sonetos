@@ -1,6 +1,6 @@
 export const Config = {
-  site_name: 'Separovich',
-  title: 'A beleza ja salvou o mundo',
+  site_name: 'Poema.Separovi.ch',
+  title: 'Poema.Separovi.ch',
   description: 'A beleza ja salvou o mundo',
   url: 'https://rousas.com',
   locale: 'pt',
