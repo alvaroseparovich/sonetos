@@ -12,8 +12,8 @@ jobs:
       - node/install:
           install-yarn: true
       - run: node --version
-      - run: cd ..
-      - run: ls
+      - run: 
+          command: ls
       - run: yarn build-prod
       - aws-s3/copy:
           from: dist/
