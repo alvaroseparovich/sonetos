@@ -7,12 +7,10 @@ jobs:
   install-node:
     docker:
       - image: 'node:14'
-    # working_directory: ~/repo
     steps:
       - checkout
       - node/install:
           install-yarn: true
-      - run: node --version
       - run: 
           command: ls
       - run: yarn build-prod
