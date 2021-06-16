@@ -9,7 +9,9 @@
     "export": "next export -o dist",
     "build-prod": "run-s clean build export",
     "clean": "rimraf .next dist",
-    "lint": "eslint --ext .js,.jsx,.ts,.tsx ."
+    "lint": "eslint --ext .js,.jsx,.ts,.tsx .",
+    "upload-site": "aws s3 sync ./dist s3://poema.separovi.ch --acl=public-read",
+    "build&upload": "run-s clean build export && aws s3 sync ./dist s3://poema.separovi.ch --acl=public-read"
   },
   "dependencies": {
     "@mapbox/rehype-prism": "^0.5.0",

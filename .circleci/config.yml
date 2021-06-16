@@ -13,10 +13,10 @@ jobs:
           install-yarn: true
       - run: yarn install
       - run: yarn build-prod
-      - aws-s3/copy:
+      - aws-s3/sync:
           from: dist/
           to: s3://poema.separovi.ch
-          arguments: --recursive --acl public-read
+          arguments: --acl=public-read
 
 workflows:
   build&deploy:
