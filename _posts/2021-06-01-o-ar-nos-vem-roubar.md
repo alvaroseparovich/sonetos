@@ -8,6 +8,7 @@ image: /assets/images/posts/random-img.jpg
 tags:
   - Covid
   - Sonetos
+  - Minha História
 ---
 Ressuscitava Logo de manhã,   
 Descia na brigadeiro para o dia,   

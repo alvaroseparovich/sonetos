@@ -8,6 +8,7 @@ image: /assets/images/posts/random-img.jpg
 tags:
   - Sonetos
   - Sinceridade
+  - Minha História
 ---    
 Vivia me esforçando sempre que dava   
 Para poder realizar tudo certo   

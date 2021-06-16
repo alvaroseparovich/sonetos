@@ -10,6 +10,7 @@ tags:
   - Amizade
   - Dor
   - Felicidade
+  - Minha História
 ---
 Bom e agra**dá**vel é um a**mig**o **pró**ximo  
 Para abra**çar** e conver**sar** com **e**le  

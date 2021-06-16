@@ -8,6 +8,7 @@ image: /assets/images/posts/random-img.jpg
 tags:
   - Sonetos
   - Sinceridade
+  - Minha História
 ---    
 Eu aprendi a viver sendo responsável   
 Fazendo o que sei e tendo pouco orgulho   

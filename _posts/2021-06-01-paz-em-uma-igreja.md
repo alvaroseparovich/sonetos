@@ -8,6 +8,7 @@ image: /assets/images/posts/random-img.jpg
 tags:
   - Sonetos
   - Primeiros
+  - Minha História
 ---
 Em uma Igreja assim   
 Que busca sempre a luz   

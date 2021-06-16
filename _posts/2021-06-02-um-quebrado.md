@@ -8,6 +8,7 @@ image: /assets/images/posts/random-img.jpg
 tags:
   - Sonetos
   - Dor
+  - Minha História
 ---
 Me esmagou o corpo in**tei**ro num só **dia**,  
 Mesmo que só pi**san**do no meu **pei**to.  

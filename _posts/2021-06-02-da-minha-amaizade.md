@@ -7,6 +7,7 @@ modified_date: '2021-06-02'
 image: /assets/images/posts/random-img.jpg
 tags:
   - Amizade
+  - Minha História
 ---
 Da minha amizade mais importante,  
 Infelizmente se foi para bem distante.  
