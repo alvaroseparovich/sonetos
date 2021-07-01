@@ -12,11 +12,11 @@ tags:
 ---    
 Conheci por acaso aqui em São Paulo    
 Hoje eles de certo me são importantes    
-A memoria deles sempre restauro    
+A memória deles sempre restauro    
 Relembro os momentos agonizantes    
 Lá de quando por mal tempo eu passava    
 E mensagens para eles eu mandava    
-Sedento por um alivio o quanto antes    
+Sedento por um alívio o quanto antes    
     
 Gastei tudo que restava na mente    
 O solucionar mesmo não alcançamos     
