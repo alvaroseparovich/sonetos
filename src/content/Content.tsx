@@ -11,7 +11,7 @@ const Content = (props: IContentProps) => (
     <style jsx>
       {`
         .content {
-          @apply tracking-wider leading-8 text-gray-300 text-xl;
+          @apply tracking-wider leading-8 text-gray-300 text-base;
         }
 
         .content :global(a) {
@@ -23,7 +23,7 @@ const Content = (props: IContentProps) => (
         }
 
         .content :global(p) {
-          @apply my-5;
+          @apply my-8;
         }
 
         .content :global(h1) {
