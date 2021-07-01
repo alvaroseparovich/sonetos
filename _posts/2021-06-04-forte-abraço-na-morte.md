@@ -10,7 +10,7 @@ tags:
   - Dor
   - Felicidade
   - Sinceridade
-  - Amigos
+  - Amizade
   - Minha História
 ---    
 Eu tinha sau**da**de estan**do ain**da **per**to   
