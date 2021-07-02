@@ -12,7 +12,7 @@ tags:
 ---    
 Já vi muito conforto que destrói     
 Que é o mais comum em qualquer lugar     
-Conforto que a alma de certo corrói     
+Conforto que a alma decerto corrói     
 Quem tem sabe que logo vai passar     
      
 Espero de Deus algo diferente     
@@ -20,7 +20,7 @@ Que não existe igual para trocar
 Que é raro e belo verdadeiramente     
 Que me pode  alma e corpo completar     
      
-Essa Paz que só Deus pode  entregar     
+Essa Paz que só Deus pode entregar     
 E que enche o coração pois vem de Deus     
 Que sempre peço a Ele pra me dar     
      

@@ -19,7 +19,7 @@ type IMainProps = {
 const RightSidebar = (props: IMainProps) => (
   <Base meta={props.meta} hero={props.hero}>
     <div className="w-full bg-black">
-      <div className="max-w-screen-xl py-16 mx-auto flex flex-wrap">
+      <div className="max-w-screen-xl mx-auto flex flex-wrap">
         <div className="w-full md:w-2/3 md:px-3">{props.children}</div>
 
         <div className="w-full md:w-1/3 px-3">
@@ -75,7 +75,8 @@ const RightSidebar = (props: IMainProps) => (
 
               <form className="mt-3">
                 <input
-                  className="w-full bg-white py-2 px-4 rounded appearance-none border border-gray-400 hover:border-gray-600 focus:outline-none focus:ring"
+                  className="w-full bg-white py-2 px-4 rounded appearance-none border
+                  ...border-gray-400 hover:border-gray-600 focus:outline-none focus:ring"
                   placeholder="Enter your email address"
                 />
 

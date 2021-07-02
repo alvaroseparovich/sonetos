@@ -11,7 +11,7 @@ const Content = (props: IContentProps) => (
     <style jsx>
       {`
         .content {
-          @apply tracking-wider leading-8 text-gray-300 text-base;
+          @apply tracking-normal leading-5 lg:leading-5 xl:leading-6 text-gray-300 text-base lg:text-lg xl:text-xl;
         }
 
         .content :global(a) {
@@ -53,7 +53,7 @@ const Content = (props: IContentProps) => (
         .content :global(ul),
         .content :global(ol),
         .content :global(p) {
-          @apply overflow-auto;
+          @apply overflow-visible;
         }
 
         .content :global(> div > ul),
