@@ -18,13 +18,13 @@ Quem tem sabe que logo vai passar
 Espero de Deus algo diferente     
 Que não existe igual para trocar     
 Que é raro e belo verdadeiramente     
-Que me pode  alma e corpo completar     
+Que me pode alma e corpo completar     
      
-Essa Paz que só Deus pode entregar     
+Essa paz que só Deus pode entregar     
 E que enche o coração pois vem de Deus     
 Que sempre peço a Ele pra me dar     
      
-Com a Paz posso sempre caminhar     
+Com a paz posso sempre caminhar     
 Se for diligente e obediente a Deus     
 Deus me fortaleça pra justo andar     
 
