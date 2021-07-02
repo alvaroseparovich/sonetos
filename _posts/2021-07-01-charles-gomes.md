@@ -11,17 +11,17 @@ tags:
   - Acrônimo
 ---    
 Conheci por acaso aqui em São Paulo    
-Hoje eles de certo me são importantes    
+Hoje eles decerto me são importantes    
 A memória deles sempre restauro    
 Relembro os momentos agonizantes    
-Lá de quando por mal tempo eu passava    
+Lá de quando por mau tempo eu passava    
 E mensagens para eles eu mandava    
 Sedento por um alívio o quanto antes    
     
-Gastei tudo que restava na mente    
+Gastamos o que tinhamos em mente    
 O solucionar mesmo não alcançamos     
 Mas Deus é quem traz forças novamente    
-E é confiante nele que nós andamos    
+E confiantes nele é que nós andamos    
 Seja esse Deus louvado eternamente          
 
 ______
