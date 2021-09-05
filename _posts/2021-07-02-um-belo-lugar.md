@@ -6,7 +6,7 @@ date: '2021-07-02'
 modified_date: '2021-07-02'
 image: /assets/images/posts/random-img.jpg
 tags:
-  - Soneto
+  - Sonetos
   - Amizade
   - Coração
   - Felicidade
@@ -32,3 +32,4 @@ Com tão belo amor que soa como artista
 ______
 
 > Friday, July 2 2021, 8:12 PM
+> Esse aqui ta bem ruim, precisa arrumar :|
