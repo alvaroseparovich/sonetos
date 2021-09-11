@@ -2,8 +2,8 @@
 title: Anda comigo no rumo correto
 description: É muito errado querer agradar? E se eu nada de errado cometer?  
 author: Alvaro Separovich Cassiano dos Santos
-date: '2021-09-04'
-modified_date: '2021-09-04'
+date: '2021-09-03'
+modified_date: '2021-09-03'
 image: /assets/images/posts/random-img.jpg
 tags:
   - Sonetos

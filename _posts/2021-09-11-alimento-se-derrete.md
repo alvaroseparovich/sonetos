@@ -1,0 +1,33 @@
+---
+title: Alimento se derrete
+description: É amargo viver pra logo morrer, Agir como quem pensa no futuro...
+author: Alvaro Separovich Cassiano dos Santos
+date: '2021-09-11'
+modified_date: '2021-09-11'
+image: /assets/images/posts/random-img.jpg
+tags:
+  - Sonetos
+  - Esperança
+---    
+É amargo viver pra logo morrer,    
+Agir como quem pensa no futuro,    
+Vendo, à frente, sua vida derreter    
+Escorregando mais para o escuro.    
+    
+Dói fundo passar, ainda mais, fome hoje    
+Na morta esperança de uma melhora,    
+E ver que, mesmo tentando, não pôde,    
+E que só restou o olho que, triste, chora.    
+    
+Mas, quase já morto, me revigora,    
+Quase sem crer na súbita melhora,    
+Provo o fruto da passada agonia,    
+    
+E a dor que provei é o que ensina agora    
+Que o que plantei com lagrimas, outrora,    
+Para muitos frutifica alegria.              
+
+______
+
+> Saturday, Sep 11, 2021, 1:39 AM
+> Fui hoje na hamburgueria aqui perto de casa, gastei 107 reais, eles vão abrir 2 novas unidades, fico muito feliz. Lembrei da primeira vez que fui no Melts, durante a pandemia, com um amigo.
