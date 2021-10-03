@@ -7,6 +7,7 @@ modified_date: '2021-09-28'
 image: /assets/images/posts/random-img.jpg
 tags:
   - Valores
+  - Verso Tri-ritmado
 ---    
 **Com**o é hor**rí**vel conquis**tar**    
 Felici**da**de porca**men**te fabri**ca**da,    

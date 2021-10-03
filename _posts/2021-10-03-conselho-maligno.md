@@ -7,12 +7,13 @@ modified_date: '2021-10-03'
 image: /assets/images/posts/random-img.jpg
 tags:
   - Valores
+  - Verso Tri-ritmado
 ---   
 
 "**É** di**fí**cil a **lu**ta,     
 **Ven**do a **fren**te o opo**ne**nte,     
 Fico **Fir**me em **min**ha con**du**ta     
-**Sem** desfo**car** minha **men**te.     
+Sem **de**sfo**car** minha **men**te.     
      
 **Ve**jo jo**ga**dos no **chão**     
 A**que**les que **não** aguen**ta**ram,     
