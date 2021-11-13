@@ -13,7 +13,7 @@ tags:
 "**É** di**fí**cil a **lu**ta,     
 **Ven**do a **fren**te o opo**ne**nte,     
 Fico **Fir**me em **min**ha con**du**ta     
-Sem **de**sfo**car** minha **men**te.     
+**Sem** desfo**car** minha **men**te.     
      
 **Ve**jo jo**ga**dos no **chão**     
 A**que**les que **não** aguen**ta**ram,     

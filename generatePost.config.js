@@ -25,4 +25,4 @@ ______
 const POSTname = `${fullNow}`;
 
 fs.writeFileSync(`./_posts/${POSTname}.md`, POST);
-console.log('\n\nAta Criada!\n\n');
+console.log('\n\nPost Criado!\n\n');
