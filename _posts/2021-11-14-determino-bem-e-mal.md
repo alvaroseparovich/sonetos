@@ -23,7 +23,7 @@ Inteiramente certo ando
 No tapete enterrando os fatos.    
     
 O tapete então fica pequeno,    
-Bem quando precisava descansar    
+Bem quando iria descansar    
 Em nova casa ficarei sereno,    
 Mais erros poderei ocultar.    
     
