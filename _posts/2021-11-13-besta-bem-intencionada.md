@@ -14,7 +14,7 @@ tags:
 Em tudo que faço com bem-querer,    
 Eu penso bastante pra realizar    
 Sou tao convencido que vou fazer    
-Com boas intenções eu vou realizar.    
+Com boas intenções eu vou praticar.    
     
 Fome logo mato com pão e bolor,    
 E a sede resolvo com urinar    
