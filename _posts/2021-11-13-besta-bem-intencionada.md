@@ -8,6 +8,7 @@ image: /assets/images/posts/random-img.jpg
 tags:
   - SRD
   - Manicômio
+  - Sonetos
 ---   
 
 Em tudo que faço com bem-querer,    

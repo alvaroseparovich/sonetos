@@ -10,6 +10,7 @@ tags:
   - Manicômio
   - Sonetos
   - Heróico
+  - 4 quartetos
 ---   
 
 Incrimine seu aliado     
