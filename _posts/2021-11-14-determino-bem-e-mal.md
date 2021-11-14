@@ -12,25 +12,25 @@ tags:
   - Manicômio
 ---   
 
-Determino o que é o bem,
-E também o que é o mal.
-Trágico é certamente para quem,
-Em mim não vê um ideal.
-
-Resolvo bem rápido quando
-Meus parâmetros se mostram errados,
-Inteiramente certo ando
-No tapete enterrando os fatos.
-
-O tapete então fica pequeno,
-Bem quando precisava descansar
-Em nova casa ficarei sereno,
-Mais erros poderei ocultar.
-
-Espero que sempre exista
-Maior casa para eu me mudar.
-Assim espalharei minha conquista,
-Lindas mentiras poderei espalhar.
+Determino o que é o bem,    
+E também o que é o mal.    
+Trágico é certamente para quem,    
+Em mim não vê um ideal.    
+    
+Resolvo bem rápido quando    
+Meus parâmetros se mostram errados,    
+Inteiramente certo ando    
+No tapete enterrando os fatos.    
+    
+O tapete então fica pequeno,    
+Bem quando precisava descansar    
+Em nova casa ficarei sereno,    
+Mais erros poderei ocultar.    
+    
+Espero que sempre exista    
+Maior casa para eu me mudar.    
+Assim espalharei minha conquista,    
+Lindas mentiras poderei espalhar.    
 ______
 
 > Escrito nas férias no Santa Mônica. Antes de 12 de novembro.  
