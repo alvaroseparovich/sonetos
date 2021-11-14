@@ -8,7 +8,7 @@ image: /assets/images/posts/random-img.jpg
 tags:
   - Amizade
   - Minha História
-  - Acrônimo
+  - Acrostico
 ---    
 Conheci por acaso aqui em São Paulo    
 Hoje eles decerto me são importantes    

@@ -8,6 +8,8 @@ image: /assets/images/posts/random-img.jpg
 tags:
   - SRD
   - Manicômio
+  - Sonetos
+  - Heróico
 ---   
 
 Incrimine seu aliado     

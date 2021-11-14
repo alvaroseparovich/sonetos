@@ -7,7 +7,7 @@ modified_date: '2021-10-03'
 image: /assets/images/posts/random-img.jpg
 tags:
   - Valores
-  - Verso Tri-ritmado
+  - 4 quartetos
 ---   
 
 "**É** di**fí**cil a **lu**ta,     
