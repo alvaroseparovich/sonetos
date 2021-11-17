@@ -26,7 +26,7 @@ Antes da mentira nos engolir.
     
 Reunindo os irmãos bem rapidamente    
 Isso pode sim nos aproximar    
-Ou um irmãos matar subitamente.    
+Ou um irmão matar subitamente.    
 ______
 
 > Escrito nas férias no Santa Mônica. Antes de 12 de novembro.   
