@@ -11,13 +11,14 @@ tags:
   - Dor
   - Felicidade
   - Minha História
+  - Revisão
 ---
 Bom e agra**dá**vel é um a**mig**o **pró**ximo  
 Para abra**çar** e conver**sar** com **e**le  
 Do que sen**ti**mos machu**car** a **pe**le  
 E do que **se**nte um cora**ção** le**gí**timo  
 
-Mas expres**sar**-me bem eu **não** con**si**go  
+Mas expres**sar** bem é o que **não** con**si**go  
 E mesmo ou**vi**ndo, ele se**quer** en**ten**de  
 Assim sem **jei**to a cone**xão** sus**pen**de  
 E fica **lon**ge meu que**ri**do a**mi**go  

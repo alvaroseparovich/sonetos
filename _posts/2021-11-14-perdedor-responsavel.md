@@ -9,6 +9,7 @@ tags:
   - SRD
   - Sonetos
   - Manicômio
+  - Revisão
 ---   
 Assinei um papel ganhando um presente,    
 Depois disto fui ler todo o contrato,    

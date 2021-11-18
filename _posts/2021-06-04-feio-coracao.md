@@ -10,6 +10,7 @@ tags:
   - Coração
   - Sinceridade
   - Amizade
+  - Revisão
 ---    
 "Expressar é **sim** impor**tan**te ao **pei**to    
 E deixa bo**ni**ta a emo**ção** que **te**mos"    
