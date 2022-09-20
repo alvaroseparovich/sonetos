@@ -6,6 +6,7 @@
     "build": "next build",
     "start": "next start",
     "build-stats": "ANALYZE=true npm run build",
+    "newpost": "node generatePost.config.js",
     "export": "next export -o dist",
     "build-prod": "run-s clean build export",
     "clean": "rimraf .next dist",
