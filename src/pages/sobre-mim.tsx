@@ -2,18 +2,18 @@ import React from 'react';
 
 import { GetStaticProps } from 'next';
 
-import { IBlogGalleryProps } from '../blog/BlogGallery';
+// import { IBlogGalleryProps } from '../blog/BlogGallery';
+import { Content } from '../content/Content';
+import { ContentBorder } from '../content/ContentBorder';
 import { Hero } from '../hero/Hero';
 import { Meta } from '../layout/Meta';
 import { IPaginationProps } from '../pagination/Pagination';
 import { RightSidebar } from '../templates/RightSidebar';
 import { Config } from '../utils/Config';
 import { getAllPosts, getCategoryCollection, PostItems } from '../utils/Content';
-import { Content } from '../content/Content';
-import { ContentBorder } from '../content/ContentBorder';
 
 type IIndexProps = {
-  gallery: IBlogGalleryProps;
+  // gallery: IBlogGalleryProps;
   categoryCollection: [string, PostItems[]][];
 };
 
@@ -27,12 +27,8 @@ const Index = (props: IIndexProps) => (
       <Content>
         <h2>Sobre mim</h2>
         <div>
-          <p>
-          Eu sou Alvaro separovich.     
-          </p>
-          <p>
-          Tento sempre ser sincero.    
-          </p>
+          <p>Eu sou Alvaro separovich.</p>
+          <p>Tento sempre ser sincero.</p>
         </div>
       </Content>
     </ContentBorder>

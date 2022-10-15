@@ -8,7 +8,7 @@ export const Config = {
   pagination_size: 12,
   // involved = tradutores, revisores, co-autores, financiadores
   post_fields: [
-    'title', 
+    'title',
     'description',
     'date', // Data de publicação
     'image',
@@ -20,6 +20,6 @@ export const Config = {
     'source_entity_url', // Link para a instituição
     'source_text', // Descrição de onde foi tirado
     'source_url', // Link para o material
-    'source_donate_url' // Link para a página de doação
+    'source_donate_url', // Link para a página de doação
   ],
 };

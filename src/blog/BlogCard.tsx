@@ -7,7 +7,7 @@ type IBlogCardProps = {
   title: string;
   description: string;
   date: string;
-  image: string;
+  // image: string;
   slug: string;
   tags: string[];
 };
@@ -28,10 +28,7 @@ const BlogCard = (props: IBlogCardProps) => (
 
         <div className="px-6 py-4 flex flex-wrap">
           {props.tags.map((tag) => (
-            <div
-              key={tag}
-              className="  text-sm font-semibold text-gray-700 mr-2 mb-2"
-            >
+            <div key={tag} className="  text-sm font-semibold text-gray-700 mr-2 mb-2">
               {`#${tag}`}
             </div>
           ))}
