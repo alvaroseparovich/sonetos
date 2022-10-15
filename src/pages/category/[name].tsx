@@ -3,7 +3,7 @@ import React from 'react';
 import { GetStaticPaths, GetStaticProps } from 'next';
 
 import { BlogGallery, IBlogGalleryProps } from '../../blog/BlogGallery';
-import { Hero } from '../../hero/Hero';
+// import { Hero } from '../../hero/Hero';
 import { Meta } from '../../layout/Meta';
 import { RightSidebar } from '../../templates/RightSidebar';
 import { Config } from '../../utils/Config';
@@ -23,12 +23,12 @@ type IDisplayPostProps = {
 const DisplayPost = (props: IDisplayPostProps) => (
   <RightSidebar
     meta={<Meta title={`Category ${props.categoryName}`} description={Config.description} />}
-    hero={(
-      <Hero
-        title={`Category ${props.categoryName}`}
-        description={`${props.categoryName} ${Config.description}`}
-      />
-    )}
+    // hero={(
+    //   <Hero
+    //     title={`Category ${props.categoryName}`}
+    //     description={`${props.categoryName} ${Config.description}`}
+    //   />
+    // )}
     categoryCollection={props.categoryCollection}
   >
     <BlogGallery posts={props.gallery.posts} />

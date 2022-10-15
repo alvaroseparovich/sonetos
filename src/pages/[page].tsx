@@ -3,7 +3,7 @@ import React from 'react';
 import { GetStaticPaths, GetStaticProps } from 'next';
 
 import { BlogGallery, IBlogGalleryProps } from '../blog/BlogGallery';
-import { Hero } from '../hero/Hero';
+// import { Hero } from '../hero/Hero';
 import { Meta } from '../layout/Meta';
 import { IPaginationProps } from '../pagination/Pagination';
 import { RightSidebar } from '../templates/RightSidebar';
@@ -26,7 +26,7 @@ const PaginatePosts = (props: IPaginatePostsProps) => (
     meta={
       <Meta title={`${Config.title} | Page ${props.pageNumber}`} description={Config.description} />
     }
-    hero={<Hero title={Config.title} description={Config.description} />}
+    // hero={<Hero title={Config.title} description={Config.description} />}
     categoryCollection={props.categoryCollection}
   >
     <BlogGallery posts={props.gallery.posts} pagination={props.gallery.pagination} />

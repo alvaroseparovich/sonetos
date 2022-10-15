@@ -3,7 +3,7 @@ import React from 'react';
 import { GetStaticProps } from 'next';
 
 import { BlogGallery, IBlogGalleryProps } from '../blog/BlogGallery';
-import { Hero } from '../hero/Hero';
+// import { Hero } from '../hero/Hero';
 import { Meta } from '../layout/Meta';
 import { IPaginationProps } from '../pagination/Pagination';
 import { RightSidebar } from '../templates/RightSidebar';
@@ -18,7 +18,7 @@ type IIndexProps = {
 const Index = (props: IIndexProps) => (
   <RightSidebar
     meta={<Meta title={Config.title} description={Config.description} />}
-    hero={<Hero title={Config.title} description={Config.description} />}
+    // hero={<Hero title={Config.title} description={Config.description} />}
     categoryCollection={props.categoryCollection}
   >
     <BlogGallery posts={props.gallery.posts} pagination={props.gallery.pagination} />

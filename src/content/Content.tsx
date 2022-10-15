@@ -75,7 +75,7 @@ const Content = (props: IContentProps) => (
         }
 
         .content :global(blockquote p) {
-          @apply pl-4 py-2 border-l-4 border-blue-600 bg-gray-800;
+          @apply pl-4 py-2 border-l-4 border-blue-600 bg-gray-700;
         }
 
         .content :global(img) {

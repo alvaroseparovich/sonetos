@@ -20,7 +20,7 @@ const BlogGallery = (props: IBlogGalleryProps) => (
           date={elt.date}
           // image={elt.image}
           slug={elt.slug}
-          tags={elt.tags}
+          // tags={elt.tags}
         />
       ))}
     </div>

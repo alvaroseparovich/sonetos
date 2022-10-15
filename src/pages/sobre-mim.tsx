@@ -5,7 +5,7 @@ import { GetStaticProps } from 'next';
 // import { IBlogGalleryProps } from '../blog/BlogGallery';
 import { Content } from '../content/Content';
 import { ContentBorder } from '../content/ContentBorder';
-import { Hero } from '../hero/Hero';
+// import { Hero } from '../hero/Hero';
 import { Meta } from '../layout/Meta';
 import { IPaginationProps } from '../pagination/Pagination';
 import { RightSidebar } from '../templates/RightSidebar';
@@ -20,7 +20,7 @@ type IIndexProps = {
 const Index = (props: IIndexProps) => (
   <RightSidebar
     meta={<Meta title={Config.title} description={Config.description} />}
-    hero={<Hero title={Config.title} description={Config.description} />}
+    // hero={<Hero title={Config.title} description={Config.description} />}
     categoryCollection={props.categoryCollection}
   >
     <ContentBorder>

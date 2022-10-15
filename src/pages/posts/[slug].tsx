@@ -1,14 +1,14 @@
 import React from 'react';
 
-import { format } from 'date-fns';
+// import { format } from 'date-fns';
 import { GetStaticPaths, GetStaticProps } from 'next';
 
 import { Content } from '../../content/Content';
 import { ContentBorder } from '../../content/ContentBorder';
-import { Hero } from '../../hero/Hero';
+// import { Hero } from '../../hero/Hero';
 import { Meta } from '../../layout/Meta';
 import { RightSidebar } from '../../templates/RightSidebar';
-import { Config } from '../../utils/Config';
+// import { Config } from '../../utils/Config';
 import {
   getAllPosts, getPostBySlug, PostItems, getCategoryCollection,
 } from '../../utils/Content';
@@ -43,12 +43,12 @@ const DisplayPost = (props: IPostProps) => (
         }}
       />
     )}
-    hero={(
-      <Hero
-        title={props.title}
-        description={`By ${Config.author} · ${format(new Date(props.date), 'LLLL d, yyyy')}`}
-      />
-    )}
+    // hero={(
+    //   <Hero
+    //     title={props.title}
+    //     description={`By ${Config.author} · ${format(new Date(props.date), 'LLLL d, yyyy')}`}
+    //   />
+    // )}
     recentPosts={props.recentPosts}
     categoryCollection={props.categoryCollection}
   >
