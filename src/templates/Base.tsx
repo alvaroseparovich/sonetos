@@ -15,20 +15,11 @@ type IMainProps = {
 };
 
 const Base = (props: IMainProps) => (
-  <div className="antialiased w-full text-gray-800">
+  <div className="antialiased w-full text-white">
     {props.meta}
 
     <Navbar>
-      {/* <li>
-        <Link href="/">
-          <a>Início</a>
-        </Link>
-      </li>
-      <li>
-        <Link href="/sobre-mim">
-          <a>Sobre nós</a>
-        </Link>
-      </li> */}
+      <></>
     </Navbar>
 
     {/* {props.hero} */}

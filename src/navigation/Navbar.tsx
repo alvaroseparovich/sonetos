@@ -11,7 +11,7 @@ type INavbarProps = {
 const Navbar = (props: INavbarProps) => (
   <div className="w-full bg-black">
     <div className="navbar max-w-screen-xl flex flex-wrap justify-between items-center py-4 px-3 mx-auto">
-      <div className="font-extrabold text-xl">
+      <div className="font-extrabold text-3xl">
         <Link href="/">
           <a>{Config.site_name}</a>
         </Link>
@@ -27,11 +27,6 @@ const Navbar = (props: INavbarProps) => (
         .navbar :global(li:not(:last-child)) {
           @apply mr-5;
         }
-
-        .navbar :global(a) {
-          @apply text-gray-100;
-        }
-
         .navbar :global(a:hover) {
           @apply text-blue-600;
         }

@@ -11,14 +11,14 @@ export type IBlogGalleryProps = {
 
 const BlogGallery = (props: IBlogGalleryProps) => (
   <>
-    <div className="grid grid-cols-1 gap-y-6 gap-x-3 sm:grid-cols-2">
+    <div className="grid grid-cols-1 gap-y-0 gap-x-3 sm:grid-cols-1">
       {props.posts.map((elt) => (
         <BlogCard
           key={elt.slug}
           title={elt.title}
           description={elt.description}
           date={elt.date}
-          image={elt.image}
+          // image={elt.image}
           slug={elt.slug}
           tags={elt.tags}
         />

@@ -9,30 +9,31 @@ type IBlogCardProps = {
   date: string;
   // image: string;
   slug: string;
-  tags: string[];
+  // tags: string[];
 };
 
 const BlogCard = (props: IBlogCardProps) => (
-  <div className="max-w-sm rounded-lg overflow-hidden  shadow-sm mx-auto transform hover:shadow-xl hover:-translate-y-1">
+  <div className="overflow-hidden">
     <Link href="/posts/[slug]" as={`/posts/${props.slug}`}>
-      <a className="flex flex-col h-full">
+      <a className=" h-full">
         {/* <img className="w-full" src={props.image} alt={`Preview ${props.title}`} /> */}
 
-        <div className="px-6 py-4 flex-grow">
+        <div className="px-3 py-2 flex-grow">
           <h3 className="font-bold text-xl text-gray-800">{props.title}</h3>
-          <p className="text-gray-500 text-xs mb-2">
+          <span className="text-gray-500 text-xs mb-2">
             {format(new Date(props.date), 'LLL d, yyyy')}
-          </p>
-          <p className="text-gray-700">{props.description}</p>
+          </span>
+          <span> - </span>
+          <span className="text-gray-700">{props.description}</span>
         </div>
 
-        <div className="px-6 py-4 flex flex-wrap">
+        {/* <div className="px-6 py-4 flex flex-wrap">
           {props.tags.map((tag) => (
             <div key={tag} className="  text-sm font-semibold text-gray-700 mr-2 mb-2">
               {`#${tag}`}
             </div>
           ))}
-        </div>
+        </div> */}
       </a>
     </Link>
 

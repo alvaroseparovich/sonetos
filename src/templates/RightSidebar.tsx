@@ -10,14 +10,14 @@ import { Base } from './Base';
 
 type IMainProps = {
   meta: ReactNode;
-  hero: ReactNode;
+  // hero: ReactNode;
   recentPosts?: PostItems[];
   categoryCollection: [string, PostItems[]][];
   children: ReactNode;
 };
 
 const RightSidebar = (props: IMainProps) => (
-  <Base meta={props.meta} hero={props.hero}>
+  <Base meta={props.meta}>
     <div className="w-full bg-black">
       <div className="max-w-screen-xl mx-auto flex flex-wrap">
         <div className="w-full md:w-2/3 md:px-3">{props.children}</div>
@@ -66,26 +66,6 @@ const RightSidebar = (props: IMainProps) => (
               ))}
             </ul>
           </SidebarBlock>
-
-          {/* <SidebarBlock title="Newsletter">
-            <>
-              <div>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut, assumenda voluptatem.
-              </div>
-
-              <form className="mt-3">
-                <input
-                  className="w-full bg-white py-2 px-4 rounded appearance-none border
-                  ...border-gray-400 hover:border-gray-600 focus:outline-none focus:ring"
-                  placeholder="Enter your email address"
-                />
-
-                <button className="btn mt-3" type="submit">
-                  Subscribe
-                </button>
-              </form>
-            </>
-          </SidebarBlock> */}
         </div>
       </div>
     </div>

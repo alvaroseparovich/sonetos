@@ -5,7 +5,7 @@ export const Config = {
   url: 'https://rousas.com',
   locale: 'pt',
   author: 'Alvaro Separovich',
-  pagination_size: 12,
+  pagination_size: 50,
   // involved = tradutores, revisores, co-autores, financiadores
   post_fields: [
     'title',
