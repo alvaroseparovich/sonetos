@@ -1,8 +1,8 @@
 import React from 'react';
 
 import { GetStaticProps } from 'next';
+import Link from 'next/link';
 
-import { BlogGallery, IBlogGalleryProps } from '../blog/BlogGallery';
 // import { Hero } from '../hero/Hero';
 import { Meta } from '../layout/Meta';
 import { IPaginationProps } from '../pagination/Pagination';
@@ -11,17 +11,36 @@ import { Config } from '../utils/Config';
 import { getAllPosts, getCategoryCollection, PostItems } from '../utils/Content';
 
 type IIndexProps = {
-  gallery: IBlogGalleryProps;
   categoryCollection: [string, PostItems[]][];
 };
-
+const iClas = 'block bg-white-700 hover:bg-gray-900 p-4 font-bold';
 const Index = (props: IIndexProps) => (
   <RightSidebar
     meta={<Meta title={Config.title} description={Config.description} />}
     // hero={<Hero title={Config.title} description={Config.description} />}
     categoryCollection={props.categoryCollection}
   >
-    <BlogGallery posts={props.gallery.posts} pagination={props.gallery.pagination} />
+    <div className="block text-3xl ">
+      <Link href="/category/[name]" as="/category/melhores">
+        <button className={iClas} type="button">
+          {' '}
+          - Melhores
+        </button>
+      </Link>
+      <Link href="/category/[name]" as="/category/preferidos">
+        <button className={iClas} type="button">
+          {' '}
+          - Preferidos
+        </button>
+      </Link>
+      <Link href="/category/[name]" as="/category/sonetos">
+        <button className={iClas} type="button">
+          {' '}
+          - Sonetos
+        </button>
+      </Link>
+    </div>
+    {/* <BlogGallery posts={props.gallery.posts} pagination={props.gallery.pagination} /> */}
   </RightSidebar>
 );
 
