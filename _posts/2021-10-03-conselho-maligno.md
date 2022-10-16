@@ -10,7 +10,7 @@ tags:
   - 4 quartetos
   - Insta
   - Melhores
-  - Prefeidos
+  - Preferidos
 ---   
 
 "**É** di**fí**cil a **lu**ta,     
