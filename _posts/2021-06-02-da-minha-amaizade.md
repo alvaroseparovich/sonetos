@@ -8,6 +8,7 @@ image: /assets/images/posts/random-img.jpg
 tags:
   - Amizade
   - Minha História
+  - Preferidos
 ---
 Da minha amizade mais importante,  
 Infelizmente se foi para bem distante.  

@@ -10,6 +10,7 @@ tags:
   - Sinceridade
   - Amizade
   - Coração
+  - Melhores
 ---    
 É muito errado querer agradar?    
 E se eu nada de errado cometer?    

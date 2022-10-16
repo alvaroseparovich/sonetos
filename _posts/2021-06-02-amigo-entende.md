@@ -12,6 +12,8 @@ tags:
   - Felicidade
   - Minha História
   - Revisão
+  - Preferidos
+  - Melhores
 ---
 Bom e agra**dá**vel é um a**mig**o **pró**ximo  
 Para abra**çar** e conver**sar** com **e**le  

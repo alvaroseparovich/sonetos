@@ -10,6 +10,8 @@ tags:
   - Amizade
   - Coração
   - Insta
+  - Melhores
+  - Preferidos
 ---    
 Existe uma pessoa aqui no meu peito    
 Tão burra que, às vezes, penso ser eu    

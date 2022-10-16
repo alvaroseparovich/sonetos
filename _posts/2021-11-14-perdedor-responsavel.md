@@ -10,6 +10,8 @@ tags:
   - Sonetos
   - Manicômio
   - Revisão
+  - Melhores
+  - Preferidos
 ---   
 Assinei um papel ganhando um presente,    
 Depois disto fui ler todo o contrato,    

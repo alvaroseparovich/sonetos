@@ -9,6 +9,8 @@ tags:
   - Amizade
   - Minha História
   - Acrostico
+  - Melhores
+  - Preferidos
 ---    
 Conheci por acaso aqui em São Paulo    
 Hoje eles decerto me são importantes    

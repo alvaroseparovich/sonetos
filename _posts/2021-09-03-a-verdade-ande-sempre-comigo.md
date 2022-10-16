@@ -9,6 +9,8 @@ tags:
   - Sonetos
   - Sinceridade
   - Dor
+  - Melhores
+  - Preferidos
 ---    
 Eu tenho costume de andar no claro    
 Acompanhado de quem eu confio    

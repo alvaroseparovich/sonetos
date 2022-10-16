@@ -77,6 +77,11 @@ export function getAllPosts(fields: string[] = []) {
   return posts;
 }
 
+/**
+ * Generate Informatioon for Sidebar Menu
+ * @param fields
+ * @returns
+ */
 export function getCategoryCollection(fields: string[] = []) {
   const posts = getAllPosts(fields);
   const categoryCollection = new Map<string, PostItems[]>();
